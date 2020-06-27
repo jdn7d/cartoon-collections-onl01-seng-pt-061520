@@ -20,8 +20,6 @@ end
 end
 
 def find_the_cheese(array)
-array.select do |cheese| cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"}
+array.select do |cheese| cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
 end
-
-
 end
